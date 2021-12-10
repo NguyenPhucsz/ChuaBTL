@@ -1,3 +1,8 @@
+//Ho Ten: Nguyễn Minh Phúc
+//MSSV: 6151071084
+//Nhóm: 33
+//Đề: Mã số sinh viên chỉ được nhập số, không được nhập chữ, nếu nhập chữ báo lỗi.
+//Dạ, em chưa làm được yêu cầu này của anh ạ, em xin lỗi ạ.
 #include<conio.h>
 #include <iostream>
 #include <string>
